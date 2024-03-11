@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e7525b6-befd-47e4-a374-67261439002c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/ArtistController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/BroadcastController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/CompetitionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/MusicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/NationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/NationalTeamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/OccupationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/RoutineController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/SNSController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/SoundtrackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/TagController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/controllers/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/ArticleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/ArtistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/BroadcastRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/CompetitionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/MusicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/NationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/NationalTeamRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/RoutineRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/SNSRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/SoundtrackRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/repositories/TagRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2dLrBYjGOGlPGbWLjWRSvbcsnFU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Driver.executor": "Run",
+    "Gradle.Build artitic2024c1.executor": "Run",
+    "Gradle.artitic2024c1 [:Driver.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/srmch/Documents/dev/git-repos/artitic2024c1/src/main/java/scott/controllers"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\srmch\Documents\dev\git-repos\artitic2024c1\src\main\java\scott\controllers" />
+      <recent name="C:\Users\srmch\Documents\dev\git-repos\artitic2024c1\src\main\java\scott\repository" />
+      <recent name="C:\Users\srmch\Documents\dev\git-repos\artitic2024c1\src\main\java\scott\models" />
+      <recent name="C:\Users\srmch\Documents\dev\git-repos\artitic2024c1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.scott.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scott.Driver" />
+      <module name="artitic2024c1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scott.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.scott.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scott.Driver" />
+      <module name="artitic2024c1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scott.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.scott.Driver" />
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-corretto-21.0.1-e1d2075fd9a7-17bfb3f1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7525b6-befd-47e4-a374-67261439002c" name="Changes" comment="" />
+      <created>1709798119937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709798119937</updated>
+    </task>
+    <servers />
+  </component>
+</project>
